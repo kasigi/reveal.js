@@ -1,3 +1,7 @@
+#MODIFIED reveal.js
+
+This is a copy of reveal.js that has a PHP wrapper added along with an associated .htaccess file.  It will load any file named slides.md into a reveal.js framework.
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
